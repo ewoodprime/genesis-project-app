@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/genesis-project-app/static/css/main.e2faf004.css",
-    "main.js": "/genesis-project-app/static/js/main.c01b9ef8.js",
-    "static/js/488.40354343.chunk.js": "/genesis-project-app/static/js/488.40354343.chunk.js",
+    "main.js": "/genesis-project-app/static/js/main.ffb4e352.js",
+    "static/js/453.b32d5a32.chunk.js": "/genesis-project-app/static/js/453.b32d5a32.chunk.js",
     "index.html": "/genesis-project-app/index.html",
     "main.e2faf004.css.map": "/genesis-project-app/static/css/main.e2faf004.css.map",
-    "main.c01b9ef8.js.map": "/genesis-project-app/static/js/main.c01b9ef8.js.map",
-    "488.40354343.chunk.js.map": "/genesis-project-app/static/js/488.40354343.chunk.js.map"
+    "main.ffb4e352.js.map": "/genesis-project-app/static/js/main.ffb4e352.js.map",
+    "453.b32d5a32.chunk.js.map": "/genesis-project-app/static/js/453.b32d5a32.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e2faf004.css",
-    "static/js/main.c01b9ef8.js"
+    "static/js/main.ffb4e352.js"
   ]
 }
